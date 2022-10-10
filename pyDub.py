@@ -31,7 +31,8 @@ interval = 5 * 1000
 # If length is 22 seconds, and interval is 5 seconds, 
 # With overlap as 1.5 seconds, 
 # The chunks created will be: 
-# chunk1 : 0 - 5 seconds 
+# siddhraj repo
+# chunk1 : 0 - 5 seconds
 # chunk2 : 3.5 - 8.5 seconds 
 # chunk3 : 7 - 12 seconds 
 # chunk4 : 10.5 - 15.5 seconds 
